@@ -1,2 +1,2 @@
 # unix-programs
-random unix programs in Python
+Unix programs and tools written with Python
